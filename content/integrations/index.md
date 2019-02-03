@@ -1,5 +1,5 @@
 ---
-title: Tools That Integrate With Istanbul API's
+title: Tools That Integrate With Istanbul's APIs
 ---
 
 The following tools integrate with Istanbul to provide JavaScript
